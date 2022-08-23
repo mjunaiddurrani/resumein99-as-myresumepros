@@ -3765,7 +3765,7 @@
                     <form id="wpforms-form-1044" class="wpforms-validate wpforms-form" data-formid="1044" method="post"
                         enctype="multipart/form-data" action="/leads/"> <input type="hidden" name="route"
                             value="<?= $_SERVER['REQUEST_URI'] ?>">
-                        <input type="hidden" name="brand" value="Writingavenues">
+                        <input type="hidden" name="brand" value="resumein99">
                         <input type="hidden" name="token" value="<?= $token;?>">
                         <input type="hidden" name="tag" value="banner-right-form">
                         <input type="hidden" name="price" value="null">
@@ -3824,7 +3824,7 @@
                         <form id="wpforms-form-1044" class="wpforms-validate wpforms-form" data-formid="1044"
                             method="post" enctype="multipart/form-data" action="/leads/"> <input type="hidden"
                                 name="route" value="<?= $_SERVER['REQUEST_URI'] ?>">
-                            <input type="hidden" name="brand" value="Writingavenues">
+                            <input type="hidden" name="brand" value="resumein99">
                             <input type="hidden" name="token" value="<?= $token;?>">
                             <input type="hidden" name="tag" value="banner-right-form">
                             <input type="hidden" name="price" value="null">
