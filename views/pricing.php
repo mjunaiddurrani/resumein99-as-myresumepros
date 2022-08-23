@@ -465,7 +465,7 @@
                                                                         data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
                                                                             <h2
-                                                                                class="elementor-heading-title elementor-size-default">
+                                                                            class="elementor-heading-title elementor-size-default">
                                                                                 PROFESSIONAL <br /> RESUME</h2>
                                                                         </div>
                                                                     </div>
@@ -475,7 +475,7 @@
                                                                         <div class="elementor-widget-container">
                                                                             <h2
                                                                                 class="elementor-heading-title elementor-size-default">
-                                                                                $89</h2>
+                                                                                $99</h2>
                                                                         </div>
                                                                     </div>
                                                                     <div class="elementor-element elementor-element-9162c1f elementor-widget elementor-widget-heading"
