@@ -304,7 +304,7 @@
     NPRL.registerScript("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/optimized/rev-a287064/wp-content/plugins/testimonial-slider-and-showcase/assets/vendor/swiper/nitro-min-950a81d08ffee7f7f01032fbce8c389e.swiper.min.js", "swiper-js", "eyJkZWxheSI6ZmFsc2UsImF0dHJpYnV0ZXMiOnsiaWQiOiJzd2lwZXItanMifX0=");
     NPRL.registerInlineScript("tss-js-extra", "eyJkZWxheSI6ZmFsc2UsImF0dHJpYnV0ZXMiOnsiaWQiOiJ0c3MtanMtZXh0cmEifX0=");
     NPRL.registerScript("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/optimized/rev-a287064/wp-content/plugins/testimonial-slider-and-showcase/assets/js/nitro-min-950a81d08ffee7f7f01032fbce8c389e.wptestimonial.js", "tss-js", "eyJkZWxheSI6ZmFsc2UsImF0dHJpYnV0ZXMiOnsiaWQiOiJ0c3MtanMifX0=");
-    NPRL.registerScript("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/optimized/rev-a287064/wp-content/plugins/wpforms/pro/assets/js/vendor/nitro-min-dcd17abd24224042a74c2fa4d3484315.jquery.intl-tel-input.min.js", "wpforms-smart-phone-field-js", "eyJkZWxheSI6ZmFsc2UsImF0dHJpYnV0ZXMiOnsiaWQiOiJ3cGZvcm1zLXNtYXJ0LXBob25lLWZpZWxkLWpzIn19");
+    NPRL.registerScript("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/optimized/rev-a287064/wp-content/plugins/wpforms/pro/assets/js/vendor/nitro-min-dcd17abd24224042a74c2fa4d3484315.jquery.intl-tel-input.min.js", "-js", "eyJkZWxheSI6ZmFsc2UsImF0dHJpYnV0ZXMiOnsiaWQiOiJ3cGZvcm1zLXNtYXJ0LXBob25lLWZpZWxkLWpzIn19");
     NPRL.registerScript("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/optimized/rev-a287064/wp-content/plugins/wpforms/assets/js/nitro-min-b3a60e4d602da9f04eb745de045196b0.jquery.validate.min.js", "wpforms-validation-js", "eyJkZWxheSI6ZmFsc2UsImF0dHJpYnV0ZXMiOnsiaWQiOiJ3cGZvcm1zLXZhbGlkYXRpb24tanMifX0=");
     NPRL.registerScript("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/optimized/rev-a287064/wp-content/plugins/wpforms/assets/js/nitro-min-860399804e35347f6eb323360562421d.jquery.inputmask.bundle.min.js", "wpforms-maskedinput-js", "eyJkZWxheSI6ZmFsc2UsImF0dHJpYnV0ZXMiOnsiaWQiOiJ3cGZvcm1zLW1hc2tlZGlucHV0LWpzIn19");
     NPRL.registerScript("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/optimized/rev-a287064/wp-content/plugins/wpforms/assets/js/nitro-min-cfa979a50bc656a2e115eae1b8838e63.mailcheck.min.js", "wpforms-mailcheck-js", "eyJkZWxheSI6ZmFsc2UsImF0dHJpYnV0ZXMiOnsiaWQiOiJ3cGZvcm1zLW1haWxjaGVjay1qcyJ9fQ==");
@@ -4414,9 +4414,7 @@
         font-size: 22px;
     }
 
-    .wpforms-smart-phone-field {
-        padding: 0 0 0 50px !important;
-    }
+
 
     .mfp-wrap {
         z-index: 99999;

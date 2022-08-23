@@ -4,6 +4,7 @@
 // $packagesCat = $packagesArray['pacakges']['categories'];
 // require('nitro.start.php');
 require_once("token.php");
+require_once("ppc_or_seo.php");
 if (isset($_SERVER['HTTPS'])) {
     $requesMet = "https";
 } else {
@@ -4272,9 +4273,7 @@ if (isset($_SERVER['HTTPS'])) {
             font-size: 22px;
         }
 
-        .wpforms-smart-phone-field {
-            padding: 0 0 0 50px !important;
-        }
+
 
         .hdr-innr {
             max-width: 1170px;
@@ -5601,9 +5600,9 @@ if (isset($_SERVER['HTTPS'])) {
     <script id="tss-js-extra" type="nitropack/inlinescript" class="nitropack-inline-script">
         var tss = {"ajaxurl":"https:\/\/resumein99.com\/wp-admin\/admin-ajax.php","nonce":"cae50d8d97","nonceId":"tss_nonce"};
     </script>
-    <script id="wpforms-recaptcha-js-after" type="nitropack/inlinescript" class="nitropack-inline-script">
+    <!-- <script id="wpforms-recaptcha-js-after" type="nitropack/inlinescript" class="nitropack-inline-script">
         var wpformsRecaptchaLoad = function(){jQuery(".g-recaptcha").each(function(index, el){var recaptchaID = grecaptcha.render(el,{callback:function(){wpformsRecaptchaCallback(el);}},true);jQuery(el).attr( "data-recaptcha-id", recaptchaID);});};var wpformsRecaptchaCallback = function(el){jQuery(el).parent().find(".wpforms-recaptcha-hidden").val("1").trigger("change").valid();};
-    </script>
+    </script> -->
     <script id="ae22e1449bdfe0e1125c27abfb85afd7-1" type="nitropack/inlinescript" class="nitropack-inline-script">
         /(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
                 </script>
