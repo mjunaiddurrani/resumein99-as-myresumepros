@@ -53,7 +53,7 @@ try{
         mkdir($path, 0777, true);
     }
 
-    $myfile = fopen($path.'/'.$fileName, "w") or die("Unable to open file!");
+    $myfile = fopen($path.'/'.$fileName, "w");
     $txt = json_encode($_REQUEST);
     fwrite($myfile, $txt);
     fclose($myfile);
