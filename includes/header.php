@@ -98,7 +98,7 @@
                 <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c0c4a30" data-id="c0c4a30" data-element_type="column">
                     <div class="elementor-widget-wrap elementor-element-populated">
                         <div class="elementor-element elementor-element-0bd3f9a elementor-widget elementor-widget-image" data-id="0bd3f9a" data-element_type="widget" data-widget_type="image.default">
-                            <div class="elementor-widget-container"> <a href=""> <img width="219" height="85" alt="" nitro-lazy-src="https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/optimized/rev-a287064/wp-content/uploads/2022/06/logo.jpg" class="attachment-large size-large nitro-lazy" nitro-lazy-empty id="MTY0NzoxNjM=-1" src="data:image/svg+xml;nitro-empty-id=MTY0NzoxNjM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjE5IDg1IiB3aWR0aD0iMjE5IiBoZWlnaHQ9Ijg1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" /> </a> </div>
+                            <div class="elementor-widget-container"> <a href=""> <img width="219" height="85" alt="" nitro-lazy-src="https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/optimized/rev-4c69857/wp-content/uploads/2022/06/logo.jpg" class="attachment-large size-large nitro-lazy" nitro-lazy-empty id="MTY0NzoxNjM=-1" src="data:image/svg+xml;nitro-empty-id=MTY0NzoxNjM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjE5IDg1IiB3aWR0aD0iMjE5IiBoZWlnaHQ9Ijg1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" /> </a> </div>
                         </div>
                     </div>
                 </div>

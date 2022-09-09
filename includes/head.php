@@ -40,9 +40,9 @@ if (isset($_SERVER['HTTPS'])) {
         }
     </script>
     <link rel="preconnect" href="https://cdn-gaohk.nitrocdn.com" />
-    <link rel="preload" href="https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2" as="font" type="font/woff2" crossorigin class="nitro-font-preload" />
-    <link rel="preload" href="https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin class="nitro-font-preload" />
-    <link rel="preload" href="https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin class="nitro-font-preload" />
+    <link rel="preload" href="https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2" as="font" type="font/woff2" crossorigin class="nitro-font-preload" />
+    <link rel="preload" href="https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin class="nitro-font-preload" />
+    <link rel="preload" href="https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin class="nitro-font-preload" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Resumein 99</title>
@@ -4158,7 +4158,7 @@ if (isset($_SERVER['HTTPS'])) {
         .first-row:before {
             position: absolute;
             content: "";
-            background-image: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/optimized/rev-a287064/wp-content/uploads/2022/07/popup-element-1.png");
+            background-image: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/optimized/rev-4c69857/wp-content/uploads/2022/07/popup-element-1.png");
             width: 314px;
             height: 579px;
             bottom: 0;
@@ -5686,7 +5686,7 @@ if (isset($_SERVER['HTTPS'])) {
             font-family: "FontAwesome";
             font-weight: normal;
             font-style: normal;
-            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/counter-number-showcase/assets/css/font-awesome/fonts/3e6eb37f30ca47e1f854d23f3eb21bc6.fontawesome-webfont.woff2") format("woff2");
+            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/counter-number-showcase/assets/css/font-awesome/fonts/3e6eb37f30ca47e1f854d23f3eb21bc6.fontawesome-webfont.woff2") format("woff2");
             font-display: swap;
         }
 
@@ -5694,7 +5694,7 @@ if (isset($_SERVER['HTTPS'])) {
             font-family: "FontAwesome";
             font-weight: normal;
             font-style: normal;
-            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/easy-accordion-free/public/assets/fonts/3e6eb37f30ca47e1f854d23f3eb21bc6.fontawesome-webfont.woff2") format("woff2");
+            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/easy-accordion-free/public/assets/fonts/3e6eb37f30ca47e1f854d23f3eb21bc6.fontawesome-webfont.woff2") format("woff2");
             font-display: swap;
         }
 
@@ -5702,7 +5702,7 @@ if (isset($_SERVER['HTTPS'])) {
             font-family: eicons;
             font-weight: 400;
             font-style: normal;
-            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/elementor/assets/lib/eicons/fonts/2b07610a286079a2e2c93464e7057e10.eicons.woff2") format("woff2");
+            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/elementor/assets/lib/eicons/fonts/2b07610a286079a2e2c93464e7057e10.eicons.woff2") format("woff2");
             font-display: swap;
         }
 
@@ -5711,7 +5711,7 @@ if (isset($_SERVER['HTTPS'])) {
             font-style: normal;
             font-weight: 400;
             font-display: swap;
-            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2") format("woff2");
+            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2") format("woff2");
         }
 
         @font-face {
@@ -5719,7 +5719,7 @@ if (isset($_SERVER['HTTPS'])) {
             font-style: normal;
             font-weight: 400;
             font-display: swap;
-            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2") format("woff2");
+            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2") format("woff2");
         }
 
         @font-face {
@@ -5727,7 +5727,7 @@ if (isset($_SERVER['HTTPS'])) {
             font-style: normal;
             font-weight: 900;
             font-display: swap;
-            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2") format("woff2");
+            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2") format("woff2");
         }
 
         @font-face {
@@ -5735,14 +5735,14 @@ if (isset($_SERVER['HTTPS'])) {
             font-weight: normal;
             font-style: normal;
             font-display: swap;
-            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2") format("woff2");
+            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2") format("woff2");
         }
 
         @font-face {
             font-family: "FontAwesome";
             font-weight: normal;
             font-style: normal;
-            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/3e6eb37f30ca47e1f854d23f3eb21bc6.fontawesome-webfont.woff2") format("woff2");
+            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/3e6eb37f30ca47e1f854d23f3eb21bc6.fontawesome-webfont.woff2") format("woff2");
             font-display: swap;
         }
 
@@ -7533,7 +7533,7 @@ if (isset($_SERVER['HTTPS'])) {
             font-style: normal;
             font-weight: 900;
             font-display: swap;
-            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2") format("woff2");
+            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2") format("woff2");
         }
 
         @font-face {
@@ -7541,14 +7541,14 @@ if (isset($_SERVER['HTTPS'])) {
             font-style: normal;
             font-weight: 400;
             font-display: swap;
-            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2") format("woff2");
+            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2") format("woff2");
         }
 
         @font-face {
             font-family: "responsive-lightbox";
             font-weight: normal;
             font-style: normal;
-            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/responsive-lightbox/font/90a90dd3cf48faa18845f551ae21d8bb.responsive-lightbox.woff2") format("woff2");
+            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/responsive-lightbox/font/90a90dd3cf48faa18845f551ae21d8bb.responsive-lightbox.woff2") format("woff2");
             font-display: swap;
         }
 
@@ -8124,7 +8124,7 @@ if (isset($_SERVER['HTTPS'])) {
             font-style: normal;
             font-weight: 400;
             font-display: swap;
-            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2") format("woff2");
+            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2") format("woff2");
         }
 
         @font-face {
@@ -8139,7 +8139,7 @@ if (isset($_SERVER['HTTPS'])) {
             font-family: "FontAwesome";
             font-weight: normal;
             font-style: normal;
-            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-content/plugins/testimonial-slider-and-showcase/assets/vendor/font-awesome/fonts/3e6eb37f30ca47e1f854d23f3eb21bc6.fontawesome-webfont.woff2") format("woff2");
+            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/testimonial-slider-and-showcase/assets/vendor/font-awesome/fonts/3e6eb37f30ca47e1f854d23f3eb21bc6.fontawesome-webfont.woff2") format("woff2");
             font-display: swap;
         }
 
@@ -8147,7 +8147,7 @@ if (isset($_SERVER['HTTPS'])) {
             font-family: dashicons;
             font-weight: 400;
             font-style: normal;
-            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-a287064/wp-includes/fonts/cc26977e9557edbbc60f1255fb1de6ee.dashicons.ttf") format("truetype");
+            src: url("https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-includes/fonts/cc26977e9557edbbc60f1255fb1de6ee.dashicons.ttf") format("truetype");
             font-display: swap;
         }
     </style>
