@@ -14,8 +14,11 @@ function detectCampaing()
 if(!isset($_SESSION['lead_type'])){
   if(detectCampaing() == true){
     $_SESSION['lead_type'] = "PPC";
-  }else{
-    
+  }
+  elseif(detectFbCampaign()){
+    $_SESSION['lead_type'] = "Facebook";
+  }
+  else{
     $_SESSION['lead_type'] = "OTHER";
     if(isset($_SERVER["HTTP_REFERER"])){
       if(strpos($_SERVER["HTTP_REFERER"], 'google')){
@@ -23,4 +26,9 @@ if(!isset($_SESSION['lead_type'])){
       }
     }
   }
+}
+
+
+function detectFbCampaign(){
+     return isset($_GET["fbclid"]) ? true : false;
 }
