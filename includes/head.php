@@ -45,8 +45,14 @@ if (isset($_SERVER['HTTPS'])) {
     <link rel="preload" href="https://cdn-gaohk.nitrocdn.com/RPtTvpArotTppzWYVXOWCnEkebdsLoWf/assets/static/source/rev-4c69857/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin class="nitro-font-preload" />
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Resumein 99</title>
-    <meta name='robots' content='max-image-preview:large' />
+    <title>Resume in 99 | Hire Your Personal Resume Writer</title>
+    <meta name="description" content="Resume in 99 | Our resume writing services are proven to land more interviews and trusted by thousands. Work with a Certified Resume Writer and Accelerate Your Job Search." />
+    
+<meta name="keywords" content="Resume in 99 ">
+
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <!-- <meta name='robots' content='max-image-preview:large' /> -->
+    <meta name="google-site-verification" content="mCV8EUPohVmbdoCTCwftQoMoMm47wJrI1KGWeO8-vXQ" />
     <meta name="msapplication-TileImage" content="wp-content/uploads/2022/07/cropped-fav-270x270.png" />
     <meta name="generator" content="NitroPack" />
     <script>
