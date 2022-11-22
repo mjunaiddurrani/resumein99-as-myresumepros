@@ -1,4 +1,44 @@
 <?php
+
+// $dir = array_slice(scandir(__DIR__),2);
+
+// $folders = [];
+
+
+// foreach($dir as $file){
+//     if(is_dir($file)){
+//         $newDir = array_slice(scandir('./'.$file),2);
+        
+//         foreach($newDir as $innerDir){
+//             if($innerDir == "index.html"){
+//                 rename('./'.$file.'/'.$innerDir,$file.".php");
+                
+//             }else{
+//                 // echo $innerDir." /".$file." <br>";
+//             }
+//         }
+//     }
+//     else{
+//         // echo $file." files <br>";
+//     }
+// }
+
+// foreach($folders as $folder){
+
+// }
+
+// // var_dump($dir);
+// die;
+
+
+
+
+
+
+
+
+
+
 ob_start();
 session_start();
 

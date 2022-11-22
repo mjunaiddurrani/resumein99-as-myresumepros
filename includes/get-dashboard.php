@@ -16,8 +16,6 @@ curl_setopt_array($curl, array(
 	));
 
 	$dashboardUrl = curl_exec($curl);
-	// $dashboardUrl = "http://dashboard.ourbase.camp/api";
 	$err = curl_error($curl);
 	
 	curl_close($curl);
-    
