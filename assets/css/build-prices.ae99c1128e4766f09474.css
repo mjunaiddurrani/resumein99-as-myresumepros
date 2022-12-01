@@ -313,7 +313,7 @@
 
 .anim.prices .calcBody,
 .anim.prices .calcButton {
-    background: url(../images/images-discountsIco.png) no-repeat
+    /* background: url(../images/images-discountsIco.png) no-repeat */
 }
 
 .anim.prices .calcButton {
@@ -321,25 +321,25 @@
 }
 
 .anim.prices .buttonBig {
-    background: url(../images/images-discountsIco.png) no-repeat;
+    /* background: url(../images/images-discountsIco.png) no-repeat; */
     background-position: 0 -135px;
     top: 54px
 }
 
 .anim.prices .calcScreen {
-    background: url(../images/images-discountsIco.png) no-repeat;
+    /* background: url(../images/images-discountsIco.png) no-repeat; */
     background-position: 0 -173px;
     top: 21px
 }
 
 .anim.prices .value {
-    background: url(../images/images-discountsIco.png) no-repeat;
+    /* background: url(../images/images-discountsIco.png) no-repeat; */
     background-position: 0 -216px;
     top: 11px
 }
 
 .anim.prices .stars {
-    background: url(../images/images-discountsIco.png) no-repeat;
+    /* background: url(../images/images-discountsIco.png) no-repeat; */
     background-position: 0 -236px;
     top: 12px
 }
@@ -417,7 +417,7 @@
 
 .discountsInner .dRow li .wrap .mid ul li {
     display: block;
-    background-image: url(../images/images-tick.png);
+    /* background-image: url(../images/images-tick.png); */
     background-repeat: no-repeat;
     background-position: 0 5px;
     padding-left: 17px;

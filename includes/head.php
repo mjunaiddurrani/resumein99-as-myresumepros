@@ -25,7 +25,7 @@ if (isset($_SERVER['HTTPS'])) {
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
 <link rel="stylesheet" href="../assets/css/style.css">
 <link rel="stylesheet" href="../assets/css/build-prices.ae99c1128e4766f09474.css">
-<link rel="stylesheet" href="css/subscribe-sweet-alert.css">
+
 <script src="../assets/js/1.4.4-jquery.min.js"></script>
 <script src="../assets/js/1.8.11-jquery-ui.min.js"></script>
 <script src="../assets/js/jquery-ui-ui.selectmenu.min.js"></script>

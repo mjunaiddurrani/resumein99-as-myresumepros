@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3">
-                    <a class="logo" href="/"><img src="assets/images/resumein99s-02.png" alt="" style=""></a>
+                    <a class="logo" href="/"><img src="assets/images/logo.png" alt="" style=""></a>
                     <ul class="conList">
 
                         <li>
