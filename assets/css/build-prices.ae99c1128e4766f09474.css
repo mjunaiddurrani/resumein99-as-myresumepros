@@ -452,7 +452,7 @@
 }
 
 .discountsInner .dRow li .wrap .bot .old b {
-    background: 50% no-repeat url(../images/images-old_price.png)
+    /* background: 50% no-repeat url(../images/images-old_price.png) */
 }
 
 .discountsInner .dRow li .wrap .bot .new {
@@ -983,23 +983,23 @@
 
 @-webkit-keyframes bril {
     0% {
-        background: url(../images/images-brilliant-1.png) no-repeat !important;
+        /* background: url(../images/images-brilliant-1.png) no-repeat !important; */
         opacity: .8
     }
 
     to {
-        background: url(../images/images-brilliant-2.png) no-repeat !important
+        /* background: url(../images/images-brilliant-2.png) no-repeat !important */
     }
 }
 
 @keyframes bril {
     0% {
-        background: url(../images/images-brilliant-1.png) no-repeat !important;
+        /* background: url(../images/images-brilliant-1.png) no-repeat !important; */
         opacity: .8
     }
 
     to {
-        background: url(../images/images-brilliant-2.png) no-repeat !important
+        /* background: url(../images/images-brilliant-2.png) no-repeat !important */
     }
 }
 
@@ -1178,13 +1178,13 @@
 }
 
 .stars {
-    background: no-repeat url(../images/images-stars_temp.png);
+    /* background: no-repeat url(../images/images-stars_temp.png); */
     width: 467px;
     height: 101px
 }
 
 .alien {
-    background: no-repeat url(../images/images-alien.png);
+    /* background: no-repeat url(../images/images-alien.png); */
     width: 102px;
     height: 65px;
     position: absolute;
@@ -1794,7 +1794,7 @@
 }
 
 .levelWrap .wrap .price .old b {
-    background: 50% no-repeat url(../images/images-old_price.png)
+    /* background: 50% no-repeat url(../images/images-old_price.png) */
 }
 
 .levelWrap .wrap .price .new {
@@ -1828,7 +1828,7 @@
     top: -20px;
     font-size: 17px;
     color: #a3a3a3;
-    background: url(../images/images-old_price.png) no-repeat 50%
+    /* background: url(../images/images-old_price.png) no-repeat 50% */
 }
 
 .level__new,
@@ -1934,7 +1934,7 @@
     position: absolute;
     width: 117px;
     height: 31px;
-    background: no-repeat url(../images/images-hiwArrow.png);
+    /* background: no-repeat url(../images/images-hiwArrow.png); */
     right: -112px;
     top: -23px
 }
@@ -1946,7 +1946,7 @@
 
 .rightSide-objects__earth {
     position: absolute;
-    background: url(../images/images-earth.png) no-repeat;
+    /* background: url(../images/images-earth.png) no-repeat; */
     width: 261px;
     height: 29px;
     bottom: -33px;
@@ -1955,7 +1955,7 @@
 
 .rightSide-objects__cvpic {
     position: absolute;
-    background: url(../images/images-cv-writing-pic.png) no-repeat;
+    /* background: url(../images/images-cv-writing-pic.png) no-repeat; */
     width: 404px;
     height: 178px;
     right: -94px;
@@ -1964,7 +1964,7 @@
 
 .rightSide-objects__coverletter-pic {
     position: absolute;
-    background: url(../images/images-cover-letter-pic.png) no-repeat;
+    /* background: url(../images/images-cover-letter-pic.png) no-repeat; */
     width: 404px;
     height: 208px;
     right: -116px;
@@ -1973,7 +1973,7 @@
 
 .rightSide-objects__linkedin-pic {
     position: absolute;
-    background: url(../images/images-linkedin-pic.png) no-repeat;
+    /* background: url(../images/images-linkedin-pic.png) no-repeat; */
     width: 435px;
     height: 200px;
     right: -116px;
@@ -1982,7 +1982,7 @@
 
 .rightSide-objects__resumeediting-pic {
     position: absolute;
-    background: url(../images/images-editing-pic.png) no-repeat;
+    /* background: url(../images/images-editing-pic.png) no-repeat; */
     width: 417px;
     height: 182px;
     right: -116px;
@@ -1991,7 +1991,7 @@
 
 .rightSide-objects__thankyou-pic {
     position: absolute;
-    background: url(../images/images-thankyou-pic.png) no-repeat;
+    /* background: url(../images/images-thankyou-pic.png) no-repeat; */
     width: 315px;
     height: 194px;
     right: -116px;
@@ -2007,7 +2007,7 @@
 
 .rightSide-objects__stars {
     position: absolute;
-    background: url(../images/images-stars-service.png) no-repeat;
+    /* background: url(../images/images-stars-service.png) no-repeat; */
     width: 417px;
     height: 179px;
     top: 74px;
@@ -2016,7 +2016,7 @@
 
 .rightSide-objects__helmet {
     position: absolute;
-    background: url(../images/images-helmet.png) no-repeat;
+    /* background: url(../images/images-helmet.png) no-repeat; */
     width: 66px;
     height: 70px;
     right: 97px;
@@ -2025,7 +2025,7 @@
 
 .rightSide-objects__cv {
     position: absolute;
-    background: url(../images/images-cv.png) no-repeat;
+    /* background: url(../images/images-cv.png) no-repeat; */
     width: 108px;
     height: 112px;
     bottom: 41px;
@@ -2034,7 +2034,7 @@
 
 .rightSide-objects__pencil {
     position: absolute;
-    background: url(../images/images-pencil.png) no-repeat;
+    /* background: url(../images/images-pencil.png) no-repeat; */
     width: 61px;
     height: 39px;
     bottom: 87px;
@@ -2042,7 +2042,7 @@
 }
 
 .anim.about .rocket {
-    background: url(../images/images-rocket.png) no-repeat;
+    /* background: url(../images/images-rocket.png) no-repeat; */
     width: 208px;
     height: 79px;
     position: absolute;
@@ -2051,7 +2051,7 @@
 }
 
 .anim.about .stars {
-    background: url(../images/images-stars.png) no-repeat;
+    /* background: url(../images/images-stars.png) no-repeat; */
     width: 505px;
     height: 99px;
     position: absolute;
@@ -2440,7 +2440,7 @@
 }
 
 .ico-fb {
-    background: url(../fonts/images-fb.svg) no-repeat bottom;
+    /* background: url(../fonts/images-fb.svg) no-repeat bottom; */
     background-size: contain
 }
 
@@ -2452,20 +2452,20 @@
 }
 
 .ico-link {
-    background: url(../fonts/images-in.svg) no-repeat bottom;
+    /* background: url(../fonts/images-in.svg) no-repeat bottom; */
     background-size: contain
 }
 
 .ico-twit {
     display: block;
-    background: url(../fonts/images-t.svg) no-repeat bottom;
+    /* background: url(../fonts/images-t.svg) no-repeat bottom; */
     width: 15px;
     height: 15px;
     background-size: contain
 }
 
 .ico-pin {
-    background: url(../images/images-socialsIco.png) no-repeat;
+    /* background: url(../images/images-socialsIco.png) no-repeat; */
     height: 13px;
     background-position: 0 -33px
 }
@@ -2477,21 +2477,21 @@
 }
 
 .ico-gplus {
-    background: url(../images/images-socialsIco.png) no-repeat;
+    /* background: url(../images/images-socialsIco.png) no-repeat; */
     height: 11px;
     background-position: 0 -51px
 }
 
 .ico-rss {
     display: block;
-    background: url(../images/images-socialsIco.png) no-repeat;
+    /* background: url(../images/images-socialsIco.png) no-repeat; */
     width: 11px;
     height: 11px;
     background-position: 0 -67px
 }
 
 .footerBot .copyright:after {
-    content: "2008-2018 \A9   Resumesplanet.com";
+    content: "2008-2018 \A9   ";
     font-size: 13px
 }
 
@@ -2797,11 +2797,11 @@
     }
 
     .getHelp .right:before {
-        content: url(../images/images-ufo-right_768.png)
+        /* content: url(../images/images-ufo-right_768.png) */
     }
 
     .getHelp .left:before {
-        content: url(../images/images-ufo-left_768.png)
+        /* content: url(../images/images-ufo-left_768.png) */
     }
 
     .getHelp .left>*,
@@ -3591,7 +3591,7 @@ a.unnamed4_4_writer {
     left: -15px;
     height: 10px;
     width: 10px;
-    background: url(../images/images-rw_arrow-down.png) no-repeat 50%
+    /* background: url(../images/images-rw_arrow-down.png) no-repeat 50% */
 }
 
 .customers_comments {
@@ -3694,7 +3694,7 @@ a.unnamed4_4_writer {
     height: 22px;
     line-height: 22px;
     padding-left: 26px;
-    background: url(../images/images-remember_me.png) no-repeat;
+    /* background: url(../images/images-remember_me.png) no-repeat; */
     cursor: pointer;
     background-position: 0;
     font-weight: 500;
@@ -3705,7 +3705,7 @@ a.unnamed4_4_writer {
 #remember_me:checked+label,
 #remember_me_login:checked+label,
 #remember_me_mob:checked+label {
-    background: url(../images/images-remember_me_checked.png) no-repeat;
+    /* background: url(../images/images-remember_me_checked.png) no-repeat; */
     background-position: 0
 }
 
@@ -3713,7 +3713,7 @@ a.unnamed4_4_writer {
 
     #remember_me+.remember_me_label,
     #remember_me_mob+.remember_me_label {
-        background: url(../images/images-remember_me_mob.png) no-repeat;
+        /* background: url(../images/images-remember_me_mob.png) no-repeat; */
         height: 29px;
         line-height: 29px;
         padding-left: 40px;
@@ -3723,7 +3723,7 @@ a.unnamed4_4_writer {
 
     #remember_me:checked+label,
     #remember_me_mob:checked+label {
-        background: url(../images/images-remember_me_mob_checked.png) no-repeat
+        /* background: url(../images/images-remember_me_mob_checked.png) no-repeat */
     }
 }
 
@@ -4401,7 +4401,7 @@ a.unnamed4_4_writer {
     }
 
     .getHelp .left:after {
-        content: url(../images/images-ufo_480.png)
+        /* content: url(../images/images-ufo_480.png) */
     }
 
     .doubleBlock p {
@@ -4808,7 +4808,7 @@ a.unnamed4_4_writer {
         background: none;
         bottom: -77px;
         left: -62px;
-        content: url(../images/images-hiw-arrow_320.png)
+        /* content: url(../images/images-hiw-arrow_320.png) */
     }
 
     .service-page .seo {
@@ -4821,7 +4821,7 @@ a.unnamed4_4_writer {
     }
 
     .service-page .hiwList:before {
-        content: url(../images/images-hiw_320.png)
+        /* content: url(../images/images-hiw_320.png) */
     }
 
     .service-page .hiwList>li {
@@ -5080,7 +5080,7 @@ a.unnamed4_4_writer {
     }
 
     .footMenu:after {
-        content: url(../images/images-payments_mobile.png)
+        /* content: url(../images/images-payments_mobile.png) */
     }
 
     .login-page .loginForm table tr td:first-child {
@@ -5373,7 +5373,7 @@ a.unnamed4_4_writer {
     height: 16px;
     display: block;
     z-index: 10;
-    background-image: url(../fonts/images-icon-close.svg);
+    /* background-image: url(../fonts/images-icon-close.svg); */
     background-size: contain;
     background-position: 50%;
     background-repeat: no-repeat
@@ -5480,7 +5480,7 @@ a.unnamed4_4_writer {
     display: block;
     background-position: 50%;
     background-repeat: no-repeat;
-    background-image: url(../fonts/images-icon-phone.svg);
+    /* background-image: url(../fonts/images-icon-phone.svg); */
     position: absolute;
     left: 0;
     top: 2px
@@ -5687,7 +5687,7 @@ a.unnamed4_4_writer {
 }
 
 #login-popup .not_authorize .login-popup .form-checkbox input:checked+label:before {
-    background-image: url(../fonts/images-icon-checked.svg)
+    /* background-image: url(../fonts/images-icon-checked.svg) */
 }
 
 #login-popup .not_authorize .menu-popup-close {
@@ -5831,7 +5831,7 @@ a.unnamed4_4_writer {
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(../fonts/images-icon-logout.svg);
+    /* background-image: url(../fonts/images-icon-logout.svg); */
     margin-left: 8px
 }
 
@@ -5881,7 +5881,7 @@ a.unnamed4_4_writer {
 .anim.prices .calcBody {
     display: block;
     position: absolute;
-    background: url(../images/new_rp-pricesHeaderIco.png) no-repeat;
+    /* background: url(../images/new_rp-pricesHeaderIco.png) no-repeat; */
     width: 122px;
     height: 109px;
     background-position: 0 0;
@@ -5892,7 +5892,7 @@ a.unnamed4_4_writer {
 .anim.prices .calcButton {
     display: block;
     position: absolute;
-    background: url(../images/new_rp-pricesHeaderIco.png) no-repeat;
+    /* background: url(../images/new_rp-pricesHeaderIco.png) no-repeat; */
     width: 19px;
     height: 19px;
     background-position: 0 -114px;
@@ -5903,7 +5903,7 @@ a.unnamed4_4_writer {
 .anim.prices .buttonBig {
     display: block;
     position: absolute;
-    background: url(../images/new_rp-pricesHeaderIco.png) no-repeat;
+    /* background: url(../images/new_rp-pricesHeaderIco.png) no-repeat; */
     width: 28px;
     height: 33px;
     background-position: 0 -138px;
@@ -5914,7 +5914,7 @@ a.unnamed4_4_writer {
 .anim.prices .calcScreen {
     display: block;
     position: absolute;
-    background: url(../images/new_rp-pricesHeaderIco.png) no-repeat;
+    /* background: url(../images/new_rp-pricesHeaderIco.png) no-repeat; */
     width: 49px;
     height: 36px;
     background-position: 0 -176px;
@@ -5925,7 +5925,7 @@ a.unnamed4_4_writer {
 .anim.prices .value {
     display: block;
     position: absolute;
-    background: url(../images/new_rp-pricesHeaderIco.png) no-repeat;
+    /* background: url(../images/new_rp-pricesHeaderIco.png) no-repeat; */
     width: 28px;
     height: 20px;
     background-position: 0 -217px;
@@ -5936,7 +5936,7 @@ a.unnamed4_4_writer {
 .anim.prices .stars {
     display: block;
     position: absolute;
-    background: url(../images/new_rp-pricesHeaderIco.png) no-repeat;
+    /* background: url(../images/new_rp-pricesHeaderIco.png) no-repeat; */
     width: 433px;
     height: 93px;
     background-position: 0 -242px;
@@ -6641,7 +6641,7 @@ p {
     width: 10px;
     height: 10px;
     margin-left: 5px;
-    background: url(../images/images-arrow_servicesList.png) no-repeat 50%;
+    /* background: url(../images/images-arrow_servicesList.png) no-repeat 50%; */
     vertical-align: middle;
     transition: all .2s ease
 }
@@ -6670,7 +6670,7 @@ p {
     width: 18px;
     height: 18px;
     margin-right: 5px;
-    background: url(../images/images-checkbox_servicesList.png) no-repeat bottom;
+    /* background: url(../images/images-checkbox_servicesList.png) no-repeat bottom; */
     vertical-align: middle
 }
 
@@ -6743,7 +6743,7 @@ p {
 }
 
 .sbToggle {
-    background: url(../images/new_rp-select.png) 50%;
+    /* background: url(../images/new_rp-select.png) 50%; */
     display: block;
     height: 28px;
     outline: none;
@@ -7008,7 +7008,7 @@ p {
     display: flex;
     flex-shrink: 0;
     box-sizing: border-box;
-    background-image: url(../images/images-bluedisc.png);
+    /* background-image: url(../images/images-bluedisc.png); */
     background-repeat: no-repeat;
     background-size: contain;
     font-size: 12px;
@@ -7057,7 +7057,7 @@ p {
 .pricesContent #prices_content .redBody tbody td.pkgName:before {
     content: "";
     display: block;
-    background-image: url(../images/images-fire.png);
+    /* background-image: url(../images/images-fire.png); */
     background-repeat: no-repeat;
     width: 20px;
     height: 20px;
@@ -7132,35 +7132,35 @@ p {
 }
 
 .pricesContent .prices-additional tr:first-child td:first-child:before {
-    background-image: url(../fonts/images-covera.svg)
+    /* background-image: url(../fonts/images-covera.svg) */
 }
 
 .pricesContent .prices-additional tr:nth-child(2) td:first-child:before {
-    background-image: url(../fonts/images-medala.svg)
+    /* background-image: url(../fonts/images-medala.svg) */
 }
 
 .pricesContent .prices-additional tr:nth-child(4) td:first-child:before {
-    background-image: url(../fonts/images-lista2.svg)
+    /* background-image: url(../fonts/images-lista2.svg) */
 }
 
 .pricesContent .prices-additional tr:nth-child(3) td:first-child:before {
-    background-image: url(../fonts/images-quina.svg)
+    /* background-image: url(../fonts/images-quina.svg) */
 }
 
 .pricesContent .prices-additional tr:nth-child(5) td:first-child:before {
-    background-image: url(../fonts/images-KSC.svg)
+    /* background-image: url(../fonts/images-KSC.svg) */
 }
 
 .pricesContent .prices-additional tr:nth-child(6) td:first-child:before {
-    background-image: url(../fonts/images-rupora.svg)
+    /* background-image: url(../fonts/images-rupora.svg) */
 }
 
 .pricesContent .prices-additional tr:nth-child(8) td:first-child:before {
-    background-image: url(../fonts/images-top10jobsites.svg)
+    /* background-image: url(../fonts/images-top10jobsites.svg) */
 }
 
 .pricesContent .prices-additional tr:nth-child(7) td:first-child:before {
-    background-image: url(../fonts/images-lista.svg)
+    /* background-image: url(../fonts/images-lista.svg) */
 }
 
 .pricesContent .prices-additional tr,

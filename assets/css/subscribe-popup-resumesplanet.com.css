@@ -7,7 +7,7 @@
   top: 0;
   left: 0;
   background-color: rgba(0, 0, 0, 0.3);
-  background: url(../images/popup-bg_popup.png);
+  /* background: url(../images/popup-bg_popup.png); */
   
   z-index: 100;
 }
@@ -22,7 +22,7 @@
   z-index: 101;
   margin-left: -278px;
   margin-top: -228px;
-  background: url(../images/popup-bg_message.png) center no-repeat;
+  /* background: url(../images/popup-bg_message.png) center no-repeat; */
   background-size: contain;
 }
 
@@ -41,7 +41,7 @@
   height: 40px;
   border-radius: 50%;
  
-  background: url(../images/popup-btn_close.png) center no-repeat;
+  /* background: url(../images/popup-btn_close.png) center no-repeat; */
   position: absolute;
   left: -12px;
   top: -32px;
@@ -120,7 +120,7 @@
   font-size: 15px;
   cursor: pointer;
   border-radius: 4px;
-  behavior: url(/style/pie.htc);
+  /* behavior: url(/style/pie.htc); */
   border-bottom: 3px solid #598814;
   text-shadow: 0 2px 2px #598814;
   position: relative;
@@ -1195,7 +1195,7 @@ body.stop-scrolling {
   .popup-window {
     width: 293px;
     height: 436px;
-    background: url(../images/subscribe-resumesplanet.com-mobile.png) no-repeat 0px 0px;
+    /* background: url(../images/subscribe-resumesplanet.com-mobile.png) no-repeat 0px 0px; */
     margin-left: -145px;
   }
 
@@ -1257,15 +1257,15 @@ body.stop-scrolling {
 }
 
 .popup-optimization__bg {
-  background: url(../images/popup-bg_popup.png);
+  /* background: url(../images/popup-bg_popup.png); */
 }
 
 .popup-optimization__bg2 {
-  background: url(../images/popup-bg_message.png) center no-repeat;
+  /* background: url(../images/popup-bg_message.png) center no-repeat; */
 }
 
 .popup-optimization__close {
-  background: url(../images/popup-btn_close.png) center no-repeat;
+  /* background: url(../images/popup-btn_close.png) center no-repeat; */
 }
 
 .popup-optimization__bg3 {
@@ -1273,5 +1273,5 @@ body.stop-scrolling {
 }
 
 .popup-optimization__bg4 {
-  background: url(../images/subscribe-resumesplanet.com-mobile.png) no-repeat 0px 0px;
+  /* background: url(../images/subscribe-resumesplanet.com-mobile.png) no-repeat 0px 0px; */
 }
