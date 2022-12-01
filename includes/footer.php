@@ -157,8 +157,8 @@
 <script src="assets/js/jquery.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 <!-- Start of  Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=3c659566-3aa9-43a6-892a-00c81a96a1b6">
-</script>
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=6191bbd4-ac23-48ea-a8e6-f351ec47820f"> </script>
+
 <script>
 var checkleave = true;
 var checktimeout = true;
