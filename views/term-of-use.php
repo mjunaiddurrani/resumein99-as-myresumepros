@@ -180,7 +180,7 @@
                     <p>The pathway to all communications, starting from the purchase to the delivery process to the
                         completion of the order, is done using any of the following methods:</p>
                     <ul class="simple-list">
-                        <li>Toll-Free number: <a href="tel:+1 323 916 8648 ">+1 323 916 8648 </a></li>
+                        <li>Toll-Free number: <a href="tel:(888)-645-0042 ">(888)-645-0042 </a></li>
                         <li>E-mail: <a
                                 href="mailto:info@resumein99.com">info@resumein99.com</span></a>
                         </li>
