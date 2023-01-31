@@ -51,3 +51,15 @@ input[type=number] {
     -moz-appearance: textfield;
 }
 </style>
+
+<meta name="google-site-verification" content="mCV8EUPohVmbdoCTCwftQoMoMm47wJrI1KGWeO8-vXQ" />
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-247982883-25"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-247982883-25');
+</script>
