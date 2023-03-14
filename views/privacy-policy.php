@@ -230,7 +230,7 @@
                     <p>If you want access to or wish to update any of your Personal Information or have any questions
                         about our privacy practices, please contact at </p>
                     <ul class="simple-list">
-                        <li>Toll-Free number: <a href="tel:(888)-645-0042 ">(888)-645-0042 </a></li>
+                        <li>Toll-Free number: <a href="tel:14423197096">1 (442) 319 7096</a></li>
                         <li>E-mail: <a
                                 href="mailto:info@resumein99.com">info@resumein99.com</span></a>
                         </li>

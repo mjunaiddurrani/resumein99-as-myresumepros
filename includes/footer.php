@@ -11,7 +11,7 @@
                                     class="__cf_email__">info@resumein99.com</span></a>
                         </li>
                         <li>
-                            <a href="tel:(888)-645-0042 ">(888)-645-0042 </a>
+                            <a href="tel:14423197096">1 (442) 319 7096</a>
                         </li>
                         <li>
                             <a style="text-decoration: none;"></a>
@@ -157,9 +157,9 @@
 <script src="assets/js/jquery.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 <!-- Start of  Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=6191bbd4-ac23-48ea-a8e6-f351ec47820f"> </script>
+<!-- <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=6191bbd4-ac23-48ea-a8e6-f351ec47820f"> </script> -->
 
-<script>
+<!-- <script>
 var checkleave = true;
 var checktimeout = true;
 
@@ -167,7 +167,7 @@ $(document).on('click', '.liveChat', function() {
     $zopim.livechat.window.show();
 
 });
-</script>
+</script> -->
 <script src="assets/js/custom.js"></script>
 <script>
 window.$zopim || function(a, d) {
@@ -386,18 +386,18 @@ update = function() {
 
 
 
-zE(function() {
-    $zopim.livechat.setOnUnreadMsgs(function(numUnread) {
-        if (numUnread > 0 && !$zopim.livechat.window.getDisplay()) {
-            $zopim.livechat.window.show();
-        }
-    })
-});
+// zE(function() {
+//     $zopim.livechat.setOnUnreadMsgs(function(numUnread) {
+//         if (numUnread > 0 && !$zopim.livechat.window.getDisplay()) {
+//             $zopim.livechat.window.show();
+//         }
+//     })
+// });
 
-function setButtonURL() {
-    $zopim.livechat.window.show()
-}
-</script>
+// function setButtonURL() {
+//     $zopim.livechat.window.show()
+// }
+// </script>
 <script>
 new WOW().init();
 </script>
@@ -405,3 +405,16 @@ new WOW().init();
 onkeypress =
     "return ((event.charCode >= 65 &amp;&amp; event.charCode <= 90) || (event.charCode >= 97 &amp;&amp; event.charCode <= 122) || (event.charCode == 32))"
 </script>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/6410d54c4247f20fefe5e7c6/1grgs2dqn';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->

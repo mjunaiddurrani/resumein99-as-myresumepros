@@ -81,7 +81,7 @@
                         <div class="col-md-12">
                             <div class="ct-details">
                                 <h5>Phone :</h5>
-                                <a href="tel:(888)-645-0042 ">(888)-645-0042 </a>
+                                <a href="tel:14423197096">1 (442) 319 7096</a>
                             </div>
                         </div>
                         <div class="col-md-12">
